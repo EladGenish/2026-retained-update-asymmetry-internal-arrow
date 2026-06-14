@@ -55,20 +55,6 @@ The controls fail for distinct reasons:
 
 The result is therefore not “memory creates time” or “entropy creates time.” The proposed result is more specific: **retained lossy constraint plus irreversibility plus admissible openness can generate an internal arrow-like diagnostic inside finite formal systems.**
 
-## Repository Files
-
-Suggested repository structure:
-
-```text
-/
-├── README.md
-├── paper/
-│   ├── retained_update_asymmetry_internal_arrow_short_v04.pdf
-│   ├── retained_update_asymmetry_internal_arrow_short_v04.docx
-│   └── retained_update_asymmetry_internal_arrow_short_v04.md
-└── supplement/
-    └── future location for v0.7-v0.9 test history, tables, plots, code, and configuration files
-```
 
 ## Scope and Limitations
 
