@@ -1,6 +1,6 @@
 # Retained Update-Asymmetry and the Internal Arrow of Time
 
-**Author:** Zoe / Elad Genish  
+**Author:** Elad Genish  
 **Status:** v0.4-release-candidate; frozen except for typos, formatting, missing citations, and clarity fixes  
 **Associated supplement:** full v0.7-v0.9 test history, tables, plots, code, and configuration files  
 
