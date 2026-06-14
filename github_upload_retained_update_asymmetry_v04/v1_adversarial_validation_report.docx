@@ -1,0 +1,17 @@
+# v1 Adversarial Validation Package
+
+This folder contains the compiled v1 validation report for retained update-asymmetry.
+
+The report is not a new theory paper. It is an audit package summarizing:
+
+- the protected internal-state formalism;
+- the finite-grid adversarial benchmark;
+- the direction-evidence audit;
+- the classifier firewall;
+- the v0.9-derived family validation table;
+- the preliminary computational-mechanics proxy comparison;
+- reproduction commands and current limitations.
+
+The strongest current result is the adversarial finite-grid separation: TargetLossy produces 1024 / 3125 positive cells, while the matched controls produce zero internal-arrow positives.
+
+The report should be read as a validation companion to the main paper in `paper/`.

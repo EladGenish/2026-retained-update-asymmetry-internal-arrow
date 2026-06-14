@@ -1,0 +1,84 @@
+# Retained Update-Asymmetry as a Formal Condition for Internal Temporal Directedness: Adversarial Diagnostics Across Finite Update Systems
+
+**Author:** Elad Genish  
+**Year:** 2026  
+**Status:** v1 paper draft with adversarial validation package
+
+## Abstract
+
+This paper proposes retained update-asymmetry as a formal condition under which temporal directedness becomes internally legible in finite update systems. The claim is not that physical time, thermodynamic irreversibility, quantum measurement, or spacetime geometry has been derived. The narrower claim is diagnostic: when retained structure constrains admissible continuation, exact reversal is unavailable, and future continuation remains non-trivially open, a system can support internally directed past-like, present-like, and future-like roles. The paper defines finite systems as tuples `S=(C,U,H,R,K)`, protects the internal state `I_t=(C_t,Z_t)` from observer-side leakage, and evaluates a strict conjunction diagnostic across adversarial controls. In the v1 finite-grid benchmark, the target retained/lossy regime produces 1024 positive cells out of 3125, while no-retention, exact-memory, external-clock, shuffled-trace, entropy-only, random-trace, future-closed, trace-decoupled, observer-order-only, and perfect-reverse controls produce zero internal-arrow positives. The result supports retained update-asymmetry as a regime condition for internal temporal directedness in finite formal systems, while leaving physical and computational-mechanics extensions as future work.
+
+## Repository relation
+
+This Markdown file is a readable companion to the LaTeX paper source. The validation report in `validation/v1_adversarial_validation_report.md` contains the audit trail, control tables, reproduction commands, and limitations.
+
+## Core formal object
+
+A finite update system is represented as:
+
+```text
+S = (C, U, H, R, K)
+```
+
+where `C` is a finite configuration space, `U` is an update relation or kernel, `H` is experimenter-side history, `R` is a retention operator, and `K` is a consistency relation used to determine admissible continuations.
+
+The protected internal state is:
+
+```text
+I_t = (C_t, Z_t)
+Z_t = R(H_t, C_t)
+A(I_t) = {c' in C : K(I_t, c') = 1}
+```
+
+Observer-side step indices, file order, seed IDs, raw histories, and external DAG ranks are forbidden classifier inputs unless they are actually retained inside the protected trace.
+
+## Diagnostic
+
+The strict temporal-emergence score is:
+
+```text
+temporal_emergence_score = retention_strength x irreversibility x constraint_strength x future_openness
+```
+
+The stricter internal-arrow score is:
+
+```text
+internal_arrow_score = temporal_emergence_score x direction_accuracy_above_chance x reversal_resistance x record_admissibility_coupling
+```
+
+The diagnostic is deliberately conjunctive. Memory alone, succession alone, entropy-style spread alone, and observer-visible order alone are insufficient.
+
+## Main adversarial result
+
+In the v1 finite-grid benchmark, `TargetLossy` produces 1024 positive cells out of 3125. All adversarial controls produce zero positive cells under the strict internal-arrow diagnostic:
+
+- NoRetention
+- ExactMemory
+- ExternalClockLeak
+- ShuffledTrace
+- EntropyOnly
+- RandomTrace
+- FutureClosed
+- TraceDecoupledFromAdmissibility
+- ObserverOrderOnly
+- PerfectReverse
+
+The important result is not only that the target regime scores positively. It is that tempting non-target signals fail for the right reason. Exact memory, perfect reverse reconstruction, observer order, and clock leakage can show direction evidence, but none count as internal-arrow positives.
+
+## Current limitations
+
+This paper does not claim:
+
+- a physical derivation of time;
+- a replacement for the thermodynamic arrow;
+- a replacement for computational mechanics;
+- causal-state or epsilon-machine reconstruction;
+- a full transition-level forward/reverse classifier with out-of-distribution generalization.
+
+The present claim is a formal regime claim over finite update systems.
+
+## Citation
+
+```text
+Genish, E. (2026). Retained Update-Asymmetry as a Formal Condition for Internal Temporal Directedness: Adversarial Diagnostics Across Finite Update Systems. v1 draft.
+```

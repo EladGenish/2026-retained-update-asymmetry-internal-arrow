@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Retained Update-Asymmetry as a Formal Condition for Internal Temporal Directedness"
+message: "If you use this work, please cite it as below."
+type: report
+authors:
+  - family-names: Genish
+    given-names: Elad
+year: 2026
+abstract: "A formal diagnostic framework for internally generated temporal directedness in finite update systems, with adversarial validation of retained update-asymmetry."
+keywords:
+  - retained update-asymmetry
+  - temporal directedness
+  - finite update systems
+  - computational mechanics
+  - irreversibility
+  - admissible futures
+license: CC-BY-4.0

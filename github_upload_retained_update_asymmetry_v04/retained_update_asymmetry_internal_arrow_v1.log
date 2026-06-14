@@ -1,0 +1,56 @@
+@article{landauer_1961,
+  author = {Landauer, Rolf},
+  title = {Irreversibility and Heat Generation in the Computing Process},
+  journal = {IBM Journal of Research and Development},
+  volume = {5},
+  number = {3},
+  pages = {183--191},
+  year = {1961}
+}
+
+@article{bennett_1973,
+  author = {Bennett, Charles H.},
+  title = {Logical Reversibility of Computation},
+  journal = {IBM Journal of Research and Development},
+  volume = {17},
+  number = {6},
+  pages = {525--532},
+  year = {1973}
+}
+
+@article{crutchfield_young_1989,
+  author = {Crutchfield, James P. and Young, Karl},
+  title = {Inferring Statistical Complexity},
+  journal = {Physical Review Letters},
+  volume = {63},
+  number = {2},
+  pages = {105--108},
+  year = {1989}
+}
+
+@article{shalizi_crutchfield_2001,
+  author = {Shalizi, Cosma Rohilla and Crutchfield, James P.},
+  title = {Computational Mechanics: Pattern and Prediction, Structure and Simplicity},
+  journal = {Journal of Statistical Physics},
+  volume = {104},
+  pages = {817--879},
+  year = {2001}
+}
+
+@article{crutchfield_ellison_mahoney_2009,
+  author = {Crutchfield, James P. and Ellison, Christopher J. and Mahoney, John R.},
+  title = {Time's Barbed Arrow: Irreversibility, Crypticity, and Stored Information},
+  journal = {Physical Review Letters},
+  volume = {103},
+  pages = {094101},
+  year = {2009}
+}
+
+@article{feng_crooks_2008,
+  author = {Feng, Edward H. and Crooks, Gavin E.},
+  title = {The Length of Time's Arrow},
+  journal = {Physical Review Letters},
+  volume = {101},
+  pages = {090602},
+  year = {2008}
+}

@@ -1,0 +1,50 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{shalizi_crutchfield_2001}
+\citation{crutchfield_ellison_mahoney_2009}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\citation{landauer_1961}
+\citation{bennett_1973}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Relation to Existing Machinery}{2}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Formal Framework}{2}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Diagnostic Components}{3}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Worked Micro-Example}{4}{section.5}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Micro-example component structure.}}{4}{table.caption.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Adversarial Validation Design}{4}{section.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7}Results}{4}{section.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Finite-Grid Control Summary}{4}{subsection.7.1}\protected@file@percent }
+\gdef \LT@i {\LT@entry 
+    {1}{120.71478pt}\LT@entry 
+    {1}{73.41168pt}\LT@entry 
+    {1}{78.94736pt}\LT@entry 
+    {1}{73.77678pt}\LT@entry 
+    {1}{166.00742pt}}
+\gdef \LT@ii {\LT@entry 
+    {1}{102.5922pt}\LT@entry 
+    {1}{50.02048pt}\LT@entry 
+    {1}{99.90492pt}\LT@entry 
+    {1}{99.66064pt}\LT@entry 
+    {1}{53.21468pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Adversarial finite-grid control summary.}}{5}{table.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Direction Evidence Audit}{5}{subsection.7.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Direction evidence audit.}}{5}{table.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3}Classifier Firewall}{5}{subsection.7.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Classifier firewall summary.}}{6}{table.caption.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.4}Family Validation Derived from v0.9}{6}{subsection.7.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Family validation from v0.9 aggregate output.}}{6}{table.caption.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.5}Computational-Mechanics Proxy}{6}{subsection.7.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8}Interpretation}{6}{section.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Selected computational-mechanics proxy comparison.}}{7}{table.caption.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {9}Scope and Limitations}{7}{section.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {10}Reproducibility}{7}{section.10}\protected@file@percent }
+\bibcite{landauer_1961}{1}
+\bibcite{bennett_1973}{2}
+\bibcite{crutchfield_young_1989}{3}
+\bibcite{shalizi_crutchfield_2001}{4}
+\bibcite{crutchfield_ellison_mahoney_2009}{5}
+\bibcite{feng_crooks_2008}{6}
+\@writefile{toc}{\contentsline {section}{\numberline {11}Next Work}{8}{section.11}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {12}Conclusion}{8}{section.12}\protected@file@percent }
+\gdef \@abspage@last{8}
