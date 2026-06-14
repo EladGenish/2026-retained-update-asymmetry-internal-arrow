@@ -1,6 +1,6 @@
 # Retained Update-Asymmetry and the Internal Arrow of Time
 
-Author: Zoe / Elad Genish  
+Author: Elad Genish  
 Status: v0.4 release candidate  
 
 This folder contains the v0.4 release-candidate short paper:
